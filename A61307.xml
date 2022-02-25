@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>England's delight in this Parliament exprest in a reasonable acrostick-petition to the King's Most Excellent Majesty : with reflections upon the happy reign of Queen Elisabeth, that absolute and prime opposer of popery.</title>
+            <author>Sambach, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 2 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61307</idno>
+            <idno type="STC">Wing S526</idno>
+            <idno type="STC">ESTC R25541</idno>
+            <idno type="EEBO-CITATION">09011820</idno>
+            <idno type="OCLC">ocm 09011820</idno>
+            <idno type="VID">42214</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61307)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42214)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1293:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>England's delight in this Parliament exprest in a reasonable acrostick-petition to the King's Most Excellent Majesty : with reflections upon the happy reign of Queen Elisabeth, that absolute and prime opposer of popery.</title>
+                  <author>Sambach, William.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the Author, William Sambach,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1660-1688 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:42214:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 14 -->
+            <head>ENGLANDS Delight In this Parliament: Expreſt in a Reaſonable Acroſtick-Petition to the KING'S moſt Excellent Majeſty.</head>
+            <head>With Reflections upon the happy Reign of Queen <hi>Eliſabeth,</hi> that abſolute and Prime Oppoſer of <hi>Popery.</hi>
+            </head>
+            <lg>
+               <l>
+                  <hi>C</hi>leave to thy People with a full Conſent:</l>
+               <l>
+                  <hi>H</hi>ear what the People ſpeak in Parliament:</l>
+               <l>
+                  <hi>A</hi>rm'd with their Love, you need no Pol<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tick Arts:</l>
+               <l>
+                  <hi>R</hi>iches will flow, now, you are King of Hearts!</l>
+               <l>
+                  <hi>L</hi>end all your Strength your Peoples Love to gain.</l>
+               <l>
+                  <hi>E</hi>LISABETH the Patern of your Reign,</l>
+               <l>
+                  <hi>S</hi>he liv'd belov'd, 'twas her Ineritance:</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>S</hi>uccour to that brave HENRY King of France:</l>
+               <l>
+                  <hi>T</hi>he Irish in their own Bogs She did Smother;</l>
+               <l>
+                  <hi>U</hi>nto the BELGICK Provinces a MOTHER:</l>
+               <l>
+                  <hi>A</hi>ll Nations fear'd or felt her dreadful hand:</l>
+               <l>
+                  <hi>R</hi>OME'S proud Conſpirators did trembling ſtand.</l>
+               <l>
+                  <hi>T</hi>ruſt Providence, 'twill bring Thee ſafe to Land.</l>
+            </lg>
+            <lg>
+               <l>ENGLAND's thy Wife, the Marriage-Bed maintain,</l>
+               <l>Thy Name's no longer <hi>Charles</hi> but <hi>Charlemaign,</hi>
+               </l>
+               <l>Her Love's a FORT ſtronger than ſtrongeſt Towers:</l>
+               <l>Her Hand, her Heart, her Treaſure, All is Yours:</l>
+               <l>The Turk whoſe Proud Ambition all things ſcorns:</l>
+               <l>His Pale Face Moon will then pull-in its Horns:</l>
+               <l>Sweet gentle Winds from every Coaſt will blow,</l>
+               <l>The Triple Crown shall humbly kiſs your Toe.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for the Author, <hi>William Sambach,</hi> 1680.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
